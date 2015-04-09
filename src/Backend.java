@@ -7,7 +7,6 @@ import java.util.TreeMap;
 public class Backend {
 	
 		    public static Map<String, List<String>> myData = new TreeMap<String, List<String>>();
-		    
 		    public static Encoder hi = new Encoder("messages");
 		    
 		  public static List<String> getMessage(String username)
